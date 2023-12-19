@@ -1,0 +1,8 @@
+[app]
+name = "xilem-video"
+stylized-name = "Xilem Video Test App"
+domain = "corvelsoftware.co.uk"
+template-pack = "wgpu"
+
+[apple]
+development-team = "GHYRZM4TBD"
